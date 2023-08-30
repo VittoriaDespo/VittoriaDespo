@@ -3,7 +3,7 @@
 </p>  
 
 <h3 align="center">
-  I'm Vittoria, a student programmer, passionate about data science.
+  I'm Vittoria, backend developer student and with a passion for data.
 </h3>
 
 <h2 align="center" >
